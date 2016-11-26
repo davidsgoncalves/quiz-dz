@@ -12,7 +12,7 @@ You must have Ruby installed in your environment
 
 ### Installing
 
-Don't need installation instruction, to run the application, you only have to run "app.rb" in root.
+Don't need installation instruction to run the application, you only have to run "app.rb" in root.
 
 ```
 ruby app.rb
