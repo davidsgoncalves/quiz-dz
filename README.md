@@ -1,14 +1,16 @@
 # Quiz DZ
 
-A console application to define which tv series you look like more
+A console application to define which tv series you look like more, design in pure ruby and using OOP.
+
+Each question have it own influence in quiz result, that means, some questions will be more decisive for the quiz result.
 
 ## Getting Started
 
-It's very simple, just make a copy of this repository
+It's very simple, just make a copy of this repository.
 
 ### Prerequisites
 
-You must have Ruby installed in your environment 
+You must have Ruby installed in your environment.
 
 ### Installing
 
